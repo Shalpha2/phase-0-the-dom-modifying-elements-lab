@@ -7,3 +7,4 @@ newHeader.id = "victory";
 newHeader.textContent = "YOUR-NAME is the champion";
 
 document.body.append(newHeader);
+
